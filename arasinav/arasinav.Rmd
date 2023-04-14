@@ -1,0 +1,65 @@
+---
+title: "Ülkelerin Gelişmişlik Düzeylerinin Sosyo-Ekonomik Göstergelerle İlişkisi"
+author: 
+  - Berrin Eviren[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa-tr.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{turkish}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+<!-- ============================== NOTLAR ================================= -->
+<!-- ======================================================================= -->
+[^1]: 17080212, [Github Repo](https://github.com/berrineviren/AraSinav)
+
+# Giriş
+Gelişmiş ülke kavramı ekonomik ve sosyal açıdan yüksek seviyede olan ülkeleri tanımlamak için kullanılır. Gelişmiş ülkeler yüksek yaşam, eğitim ve sağlık hizmeti kalitesine ve yüksek teknolojiye sahiptirler. Norveç, Almanya, Belçika gibi ülkeler gelişmiş ülkelere örnek oluşturmaktadır. 
+
+Gelişmekte olan ülkeler, gelişmiş ülkelere kıyasla ekonomik ve sosyal açıdan daha düşük, az gelişmiş ülkelere kıyasla daha yüksek seviyede olan ülkelerdir. 
+
+Az gelişmiş ülkeler, ekonomik ve sosyal açıdan düşük seviyede olan ülkelerdir. Bu ülkeler düşük yaşam kalitesine, kısıtlı eğitim ve sağlık imkanlarına ve düşük teknolojik gelişmişliğe sahiptirler. Bu ülkelere Sudan, Çad ve Togo örnek verilebilir.
+
+Ülkelerin gelişmişlik düzeylerinin sosyo-ekonomik göstergelerle ilişkisi olduğu bilinmektedir. Aynı gelişmişlik düzeyine sahip ülkelerin sosyoekonomik özellikleri benzerlik göstermektedir. Aynı gelişmişlik düzeyindeki ülkelerin eğitim düzeyi, suç oranları, sağlık harcamaları gibi verileri aynı aralıktadır. Çoğunlukla, gelişmiş ülkelerde demokrasi ve yasaların güvenilirliği, eğitim seviyesinin yüksek olması, teknolijye erişimin kolaylığı gibi unsurlar söz konusuyken gelişmekte olan ve az gelişmiş ülkelerde bu unsurlar tam olarak sağlanabilmiş değildir. Az gelişmiş ülkelerin bir çoğunda sağlık harcamaları ve eğitim seviyesi düşüktür.Gelişmiş ülkelerde kişi başına düşen GSYİH miktarı yüksekken gelişmekte olan ve az gelişmiş ülkelerde tam tersi söz konusudur.  
+
+## Çalışmanın Amacı
+Bu çalışmanın amacı GSYİH büyüme oranı, kişi başına düşen GSYİH,gelir grubu, nüfus, bölge, işsizlik oranı, enflasyon oranı, yoksulluk oranı, nüfus yoğunluğu, yaşam beklentisi ve kişi başına sağlık harcaması faktörleriyle gelişmişlik düzeyleri arasında ilişki kurmaktır.Gelişmişlik düzeyinin her değişken için ayrı ayrı değerlendirilip aralarında bir ilişki olup olmadığının ortaya konması beklenmektedir.Çalışmada az gelişmiş, gelişmekte olan ve gelişmiş ülkelerin, bölgelerin ve gelir gruplarının ortak özelliklerinin neler olduğu ayrı ayrı tartışılacaktır. 
+
+Her gelir grubundan 13, toplamda 52 ülke seçilmiştir. Ülkelerin verileri World Bank, International Labour Organization, EuroStat ve Tuik verileri kullanılarak bir araya getirilmiştir. Birleşmiş Milletler İnsani Gelişme Raporu'na göre seçilen ülkelerin 15'i az gelişmiş, 7'si gelişmiş ve 30'u gelişmekte olan ülkelerdir. 
+
+## Literatür 
+@tacs2017faktor Türkiye ve Avrupa Birliği üyesi ülkeleri, sosyo-ekonomik değişkenler kullanarak, gelişmişlik düzeylerine göre karşılaştırmışlardır. Türkiye'nin gelişmişlik düzeyinin Avrupa Birliği ülkelerine göre konumu belirlenmiştir. Bu çalışma için faktör analizi yöntemi kullanılmıştır. Başlangıçta 60 değişken seçilmiş daha sonra gelişmişlik düzeyini en iyi ifade eden değişkenler belirlenerek değişken sayısı önce 28'e en sonsa 6'ya indirilmiştir.
+
+@kavasouglu2007sosyo seçilen değişkenlerle Türkiye'deki illerin gelişmişlik seviyesini tespit etmiş ve buna göre gelişmişlik sıralamalarını yapmıştır. Çalışmaya başlangıçta 100'e yakın değişken ile başlanmış, daha sonra seçilen 58 değişkenle çalışmaya devam edilmiştir. İstihdam, eğitim, sağlık, altyapı, sektör gibi değişkenler kullanılmıştır. Çalışmada temel bileşenler analizi tekniği kullanılmıştır. 
+
+@erol2013turkiye çalışmada temel bileşenler analizi yöntemi kullanılarak Türkiye ve Avrupa Birliği üyesi ülkelerin sosyo-ekonomik gelişmişlik endeksleri hesaplanmış ve Türkiye'nin Avrupa birliği ülkeler arasındaki durumu tespit edilmiştir. 19 değişken seçilmiş 29 ülke incelenmiştir.
+
+@szirmai2015socio genel olarak sosyo-ekonomik gelişme ve gelişmekte olan ülkeler üzerine bir çalışma amaçlanmıştır. Demografik, politik,sosyal ve kültürel faktörler gibi birçok faktör ekonomik gelişmenin incelenmesi konusunda kitapta sıkça yer almıştır. 
+
+@kabir2008determinants çoklu regresyon ve probit yöntemlerini kullanarak 
+yaşam beklentisinin sosyo-ekonomik belirleyicilerini incelemiştir. Kişi başına düşen gelir, okuryazar oranı, sağlık harcamaları gibi faktörler gelişmekte olan ülkelerde yaşam beklentisini açıklamada kullanılmıştır. 
+\newpage
+# Kaynakça {#references}
+<div id="refs"></div>
+

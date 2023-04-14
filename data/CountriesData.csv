@@ -1,0 +1,53 @@
+Countries;Year;GDP Growth (%);GDP per capita ($);Income Group ;Population(thousands);Region;Unemployment (%) (15+);Inflation (annual, %);Poverty Rate(%);Population density (per km^2);Literacy rate(%);Life expactansy (years);Health expenditure per capita($)
+Burkina Faso;2021;6,91;893;Low Income ;22101;Sub-Saharan Africa;5,2;3,65;41,4;76;46,04;60;42,3
+Azerbaijan;2021;5,6;5388;Upper-Middle Income;10138;Europe & Central Asia;5,9;6,65;6,2;120,4;99,08;67;193,1
+Bangladesh;2021;6,94;2457;Lower-Middle Income;159356;South Asia;5;5,55;24,3;1156,84;74,66;72;45,7
+Belgium;2021;6,13;51247;High Income;11593;Europe & Central Asia;6,2;2,44;0,4;383;99,8;81;4960,4
+Barbados;2021;-0,19;17225;High Income;281;Latin America & Caribbean;9,5;3,06;14;655,8;99,6;77;1143,3
+Bosnia and Herzegovina;2021;7,55;7143;Upper-Middle Income;3271;Europe & Central Asia;14,9;1,98;18,56;64;98,1;76;553,8
+Brazil;2021;4,62;7507;Upper-Middle Income;214326;Latin America & Caribbean;13,3;8,3;28,4;25;94,3;75;853,4
+Burundi;2021;1,8;221,48;Low Income ;12551;Sub-Saharan Africa;1,1;8,4;64,9;463;74,7;62;20,6
+Bulgaria;2021;7,63;12222;Upper-Middle Income;6878;Europe & Central Asia;5,3;3,3;22;60,25;97,5;74;697,9
+Cameroon;2021;3,65;1667;Lower-Middle Income;27199;Sub-Saharan Africa;4,1;2,27;37,5;58,71;78,23;61;54
+Czechia;2021;3,54;26821;High Income;10506;Europe & Central Asia;2,9;3,84;0,3;139;99,8;78;1844,2
+China;2021;8,11;12556;Upper-Middle Income;1412360;East Asia & Pacific;4,6;0.98;34,6;150,23;99,8;78;535,1
+Chad;2021;-1,2;686;Low Income ;17180;Sub-Saharan Africa;1,5;-0,77;42,3;13,38;26,7;53;29,8
+Dominican Republic;2021;12,27;8477;Upper-Middle Income;11118;Latin America & Caribbean;7,7;8,24;23,8;228,43;95,17;77;491
+Colombia;2021;10,68;6104;Upper-Middle Income;51517;Latin America & Caribbean;13,9;3,5;35,7;45,12;99,1;75;495,3
+Senegal;2021;6,06;1637;Lower-Middle Income;16877;Sub-Saharan Africa;3,5;2,18;46,7;85,79;56,3;68;59,1
+El Salvador;2021;10,28;4551;Lower-Middle Income;6314;Latin America & Caribbean;4,3;3,47;8,7;300.10;89,98;71;300
+Ethiopia;2021;5,64;925;Low Income ;120283;Sub-Saharan Africa;3,9;26,84;27;105,86;51,77;65;26,7
+Finland;2021;2,97;53655;High Income;5541;Europe & Central Asia;7,6;2,19;0,2;16,36;100;82;4450,3
+France;2021;6,82;43659;High Income;67750;Europe & Central Asia;7,9;1,64;14,6;117,52;99;82;4491,7
+Germany;2021;2,63;51204;High Income;83196;Europe & Central Asia;3,6;3,14;0,2;233,26;99;81;5440,2
+Ghana;2021;5,36;2363;Lower-Middle Income;32833;Sub-Saharan Africa;3,9;9,97;23,4;137,64;69,8;64;75,2
+Guinea;2021;3,9;1189;Low Income ;13532;Sub-Saharan Africa;5,8;12,6;43,7;55,04;45,33;59;43
+Honduras;2021;12,53;2772;Lower-Middle Income;10278;Latin America & Caribbean;7,9;4,48;48,3;91,37;88,51;71;187,5
+Haiti;2021;-1,8;1830;Lower-Middle Income;11448;Latin America & Caribbean;15;16,84;58,5;412,53;61,69;64;56,9
+Indonesia;2021;3,69;4333;Lower-Middle Income;273753;East Asia & Pacific;3,8;1,56;10,1;142,82;99,76;69;120,1
+India;2021;8,86;2257;Lower-Middle Income;1407564;South Asia;7,7;5,13;7,6;451,5;94,02;70;63,7
+Israel;2021;8,61;52171;High Income;9364;Middle East & North Africa;4,3;1,49;21;403,27;91,75;83;3456,3
+Sweden;2021;5,08;61028;High Income;10416;Europe & Central Asia;8,7;2,16;0,9;25,7;99;82;5671,3
+Kenya;2021;7,52;2082;Lower-Middle Income;53006;Sub-Saharan Africa;5,6;6,11;36,1;91,33;82,62;63;83,4
+Korea;2021;4,15;34998;High Income;51745;East Asia & Pacific;3,6;2,5;1,2;516,44;98,8;83;2624,5
+Sierra Leone;2021;4,1;480;Low Income ;8421;Sub-Saharan Africa;2,3;11,87;56,8;116,47;47,7;60;46,1
+Mali;2021;3,05;874;Low Income ;21905;Sub-Saharan Africa;2,6;3,93;42,1;17,66;30,76;59;34,2
+Mexico;2021;4,72;10046;Upper-Middle Income;126705;Latin America & Caribbean;4,1;5,69;41,9;65,5;99,5;70;540,3
+Morocco;2021;7,93;3795;Lower-Middle Income;37077;Middle East & North Africa;10,5;1,4;26,7;83,03;98,16;74;174,2
+Mozambique;2021;2,36;492;Low Income ;32077;Sub-Saharan Africa;3,9;5,69;63,3;40,13;63,42;61;39,4
+Nigeria;2021;3,65;2066;Lower-Middle Income;213401;Sub-Saharan Africa;5,9;16,95;40,1;231,01;77,62;53;71,4
+Niger;2021;1,39;591;Low Income ;25253;Sub-Saharan Africa;0,7;3,84;41,8;19,93;37,34;61;31,4
+Panama;2021;15,34;14617;High Income;4351;Latin America & Caribbean;10,3;1,63;12,1;57,77;95,74;77;1192,8
+Pakistan;2021;6,49;1505;Lower-Middle Income;231402;South Asia;6,3;9,5;22;290,67;58;66;39,5
+Qatar;2021;1,59;66838;High Income;2688;Middle East & North Africa;0,2;2,3;0;233,96;93,46;79;1807,1
+Malaysia;2021;3,09;11109;Upper-Middle Income;33574;East Asia & Pacific;4;2,48;5,6;101,55;95,71;76;436,6
+Rwanda;2021;10,88;822;Low Income ;13462;Sub-Saharan Africa;13,3;-0,39;41,9;511,08;75,9;67;51,4
+Russian Federation;2021;4,75;12195;Upper-Middle Income;143449;Europe & Central Asia;4,7;6,69;12,6;8,79;99,69;71;653,4
+Serbia;2021;7,55;9230;Upper-Middle Income;6834;Europe & Central Asia;10,1;4,09;21,2;82,58;99,48;74;641
+Sudan;2021;-1,87;752;Low Income ;45657;Sub-Saharan Africa;19;382,82;32;24,31;60,7;66;46,9
+South Africa;2021;4,91;7055;Upper-Middle Income;59392;Sub-Saharan Africa;28,8;4,61;55,5;49,58;95,33;65;546,6
+Togo;2021;5,26;973;Low Income ;8645;Sub-Saharan Africa;4,2;2,7;55,1;152,22;66,54;61;51,16
+Turkiye;2021;11,35;9661;Upper-Middle Income;84680;Europe & Central Asia;12;19,6;13,8;110;96,74;76;397,4
+Uganda;2021;3,54;884;Low Income ;45854;Sub-Saharan Africa;4,3;2,2;20,3;189,83;79;63;32,4
+Norway;2021;3,88;89154;High Income;5408;Europe & Central Asia;4,4;3,48;0,5;8,64;100;83;8007,4
+United States;2021;5,95;70249;High Income;1407564;North America;5,3;4,7;7,8;34,28;86;77;10921
